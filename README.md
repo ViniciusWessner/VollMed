@@ -5,8 +5,10 @@ Voll Med é um aplicativo que permite aos pacientes realizar agendamentos de con
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="#" width="180">&emsp;
-<img src="#" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/VollMed/blob/main/Vollmed/Assets.xcassets/Screenshots/CONSULTAS.imageset/CONSULTAS.png?raw=true" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/VollMed/blob/main/Vollmed/Assets.xcassets/Screenshots/MinhasConsultas.imageset/MinhasConsultas.png?raw=true" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/VollMed/blob/main/Vollmed/Assets.xcassets/Screenshots/CancelarConsultas.imageset/CancelarConsultas.png?raw=true" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/VollMed/blob/main/Vollmed/Assets.xcassets/Screenshots/Alert.imageset/Alert.png?raw=true" width="180">&emsp;
 
 
 ## Conhecimentos Adquiridos
