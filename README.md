@@ -21,7 +21,7 @@ Voll Med é um aplicativo que permite aos pacientes realizar agendamentos de con
 - Conversao de dicionarios em JSON
 - Criacao de Requisicoes (post, patch e tambem delete)
 - Criacao e utilizacao da memoria cache (salvando foto de perfil)
-- 
+- Criacao de Alerts ao usuario
 
 ## Stack utilizada
 
